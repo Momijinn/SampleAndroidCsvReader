@@ -1,0 +1,2 @@
+# SampleCsvReader
+AndroidでCsvファイルを読み込むためのサンプルファイル
